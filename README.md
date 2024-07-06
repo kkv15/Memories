@@ -2,6 +2,7 @@
 
 Memories is a social media platform that allows users to share and view memories in the form of posts. Users can create, like, comment on posts, and perform various interactions with the content.
 It is a dynamic MERN-application which can be used all over the world.
+///
 
 
 ## UI Interface
